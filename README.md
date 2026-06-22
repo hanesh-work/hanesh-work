@@ -142,7 +142,7 @@ A machine learning project focused on multimodal Alzheimer’s disease classific
 | Domain | Biomedical analytics, neuroimaging-informed modeling, healthcare ML |
 | Strengths Highlighted | Research orientation, applied machine learning, domain-specific modeling, structured experimentation |
 
-This repository reflects a strong interest in healthcare AI, multimodal analytics, and predictive modeling for clinically meaningful problems. As your GitHub grows, this project can serve as the flagship research-focused centerpiece of the profile.
+This repository reflects a strong interest in healthcare AI, multimodal analytics, and predictive modeling for clinically meaningful problems. 
 
 </details>
 
