@@ -44,7 +44,7 @@ I am **Hanesh Varma Sagi**, a graduate student in Applied Statistics & Data Scie
 
 My work centers on transforming raw data into actionable insights through Python, R, SQL, Power BI, statistical modeling, and business-oriented analytics. I enjoy building systems that combine rigorous analysis with clear storytelling, whether that means forecasting business outcomes, designing dashboards, optimizing operational decisions, or modeling biomedical signals.
 
-I bring a practical mindset: understanding the problem, cleaning and validating data, selecting the right modeling approach, measuring impact, and communicating results clearly. My recent work spans university analytics, predictive modeling, linear programming, and multimodal neurodegenerative disease research.
+I bring a practical mindset of understanding the problem, cleaning and validating data, selecting the right modeling approach, measuring impact, and communicating results clearly. My recent work spans university analytics, predictive modeling, linear programming, and multimodal neurodegenerative disease research.
 
 ## Education
 
