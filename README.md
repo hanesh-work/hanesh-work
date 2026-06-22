@@ -129,24 +129,6 @@ I bring a practical mindset of understanding the problem, cleaning and validatin
 ## Featured Project
 
 <details open>
-<summary><b>MultiModal Alzheimer's Classification</b></summary>
-
-<br>
-
-A machine learning project focused on multimodal Alzheimer’s disease classification, designed to work with biomedical signal and clinical data for predictive modeling in neurodegenerative disease research.
-
-| Category | Details |
-|---|---|
-| Repository | [MultiModal_Alzeheimers_classification](https://github.com/hanesh-work/MultiModal_Alzeheimers_classification) |
-| Focus | Multimodal disease classification and neurodegenerative prediction |
-| Domain | Biomedical analytics, neuroimaging-informed modeling, healthcare ML |
-| Strengths Highlighted | Research orientation, applied machine learning, domain-specific modeling, structured experimentation |
-
-This repository reflects a strong interest in healthcare AI, multimodal analytics, and predictive modeling for clinically meaningful problems. 
-
-</details>
-
-<details open>
 <summary><b>Multi-Objective Freight Optimization</b></summary>
 
 <br>
@@ -164,16 +146,23 @@ This repository reflects a strong interest in optimization, logistics analytics,
 
 </details>
 
-ompatibility, and on-time service delivery.
+<details open>
+<summary><b>MultiModal Alzheimer's Classification</b></summary>
+
+<br>
+
+A machine learning project focused on multimodal Alzheimer’s disease classification, designed to work with biomedical signal and clinical data for predictive modeling in neurodegenerative disease research.
 
 | Category | Details |
 |---|---|
-| Stack | Python, PuLP, Optimization, Logistics Analytics |
-| Scale | 5,399 trips across 26 providers |
-| Objective | Maximize on-time delivery with cost-aware assignment constraints |
-| Outcome | Demonstrated a 10–15% improvement in on-time deliveries with less than 5% budget increase |
+| Repository | [MultiModal_Alzeheimers_classification](https://github.com/hanesh-work/MultiModal_Alzeheimers_classification) |
+| Focus | Multimodal disease classification and neurodegenerative prediction |
+| Domain | Biomedical analytics, neuroimaging-informed modeling, healthcare ML |
+| Strengths Highlighted | Research orientation, applied machine learning, domain-specific modeling, structured experimentation |
 
-This project demonstrates quantitative decision modeling, optimization thinking, and the ability to turn business constraints into measurable outcomes.
+This repository reflects a strong interest in healthcare AI, multimodal analytics, and predictive modeling for clinically meaningful problems.
+
+</details>
 
 ## Experience
 
