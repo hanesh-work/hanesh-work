@@ -264,19 +264,15 @@ Worked with cross-functional teams on analytics and pipeline automation initiati
 ```yaml
 Learning:
   - Advanced machine learning workflows
-  - Time series forecasting and model comparison
   - MLOps deployment and reproducibility
   - Optimization for operational decision systems
-  - Biomedical signal analytics
 
 Building:
-  - A recruiter-ready data science portfolio
   - Machine learning projects with measurable business impact
   - Research-oriented healthcare analytics workflows
   - Stronger end-to-end dashboard and reporting systems
 
 Exploring:
-  - fNIRS and EEG feature engineering
   - Agentic AI workflows and RAG pipelines
   - Power BI storytelling for stakeholders
   - Large-scale medical data harmonization
@@ -285,7 +281,7 @@ Exploring:
 Open To:
   - Data Analyst roles
   - Data Scientist roles
-  - Machine Learning Engineer roles
+  - AI/ML Engineer roles
   - Business Intelligence and Analytics roles
 ```
 
