@@ -58,12 +58,11 @@ I bring a practical mindset of understanding the problem, cleaning and validatin
 ## Open To
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Analyst-Open-1C2541?style=for-the-badge&logo=powerbi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Scientist-Open-3A506B?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI/ML%20Engineer-Open-5BC0BE?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Analyst-1C2541?style=for-the-badge&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Scientist-3A506B?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%2FML%20Engineer-5BC0BE?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Analytics%20Roles-SQL%20%7C%20Python%20%7C%20BI-0B132B?style=for-the-badge&logo=apacheairflow&logoColor=white" />
 </p>
-
 ***
 
 ## Tech Stack
