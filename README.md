@@ -1,5 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1c2541,100:5bc0be&height=120&section=header&text=Hanesh%20Varma%20Sagi&fontSize=36&fontColor=ffffff" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b132b,25:1c2541,55:3a506b,85:5bc0be,100:e0fbfc&height=260&section=header&text=Hanesh%20Varma%20Sagi&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Applied%20Statistics%20%26%20Data%20Science%20%7C%20ML%20%26%20Analytics&descAlignY=58&descSize=18&stroke=ffffff&strokeWidth=1" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2800&pause=900&color=5BC0BE&center=true&vCenter=true&width=950&lines=Graduate+Research+Assistant+%40+UT+Arlington;Applied+Statistics+%26+Data+Science+Graduate+Student;Python+%7C+R+%7C+SQL+%7C+Power+BI;Machine+Learning+%7C+Time+Series+%7C+Optimization;Neuroimaging+Analytics+%7C+Data-Driven+Decision+Making" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Turning%20raw%20data%20into%20actionable%20insights-5BC0BE?style=for-the-badge&logoColor=white" />
 </p>
 
 <p align="center">
