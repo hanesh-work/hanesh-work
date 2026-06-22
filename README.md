@@ -146,16 +146,25 @@ This repository reflects a strong interest in healthcare AI, multimodal analytic
 
 </details>
 
-***
-
-## Selected Projects
-
-<details>
-<summary><b>Trip-to-Provider Assignment Optimization</b></summary>
+<details open>
+<summary><b>Multi-Objective Freight Optimization</b></summary>
 
 <br>
 
-An operations research and logistics analytics project that used linear programming to assign 5,399 trips across 26 providers while balancing cost, compatibility, and on-time service delivery.
+A transportation optimization project focused on freight assignment using linear and multi-objective models to improve on-time delivery, reduce cost, and incorporate provider compatibility constraints.
+
+| Category | Details |
+|---|---|
+| Repository | [multiobjective_freight_optimization](https://github.com/hanesh-work/multiobjective_freight_optimization) |
+| Focus | Freight assignment optimization and logistics decision support |
+| Domain | Transportation analytics, operations research, supply chain optimization |
+| Strengths Highlighted | Linear programming, multi-objective modeling, cost-performance trade-offs, data-driven logistics |
+
+This repository reflects a strong interest in optimization, logistics analytics, and decision support systems for real-world freight operations.
+
+</details>
+
+ompatibility, and on-time service delivery.
 
 | Category | Details |
 |---|---|
@@ -165,46 +174,6 @@ An operations research and logistics analytics project that used linear programm
 | Outcome | Demonstrated a 10–15% improvement in on-time deliveries with less than 5% budget increase |
 
 This project demonstrates quantitative decision modeling, optimization thinking, and the ability to turn business constraints into measurable outcomes.
-
-</details>
-
-<details>
-<summary><b>Medical Data Harmonization and Neurodegenerative Disease Prediction</b></summary>
-
-<br>
-
-A biomedical data science project that analyzed six major medical datasets and developed predictive modeling workflows for early neurodegenerative disease detection using fNIRS and EEG signals.
-
-| Category | Details |
-|---|---|
-| Domain | Biomedical data science and predictive healthcare analytics |
-| Data Scale | 6 major biomedical datasets covering 550M+ records |
-| Methods | Data harmonization, signal-informed modeling, disease prediction |
-| Impact | Built a framework for selecting optimal medical data sources and improving early detection workflows |
-
-This work highlights your strength in research-driven analytics, multimodal data integration, and high-impact healthcare applications.
-
-</details>
-
-<details>
-<summary><b>University Dashboarding and Research Analytics</b></summary>
-
-<br>
-
-A stakeholder-focused analytics initiative at UT Arlington that transformed administrative and program data into Power BI dashboards for enrollment funnel monitoring, module completion tracking, and payment compliance visibility.
-
-| Category | Details |
-|---|---|
-| Stack | Power BI, Python, Data Validation, Reporting |
-| Users | University leadership and external oversight stakeholders |
-| Scope | ACP applicant record validation and operational analytics |
-| Impact | Improved candidate data accuracy by 20% and reduced time-to-insight for leadership reporting |
-
-This work demonstrates business analytics, reporting design, and the ability to support operational decision-making with clean, validated data.
-
-</details>
-
-***
 
 ## Experience
 
