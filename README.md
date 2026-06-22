@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Turning%20raw%20data%20into%20actionable%20insights-5BC0BE?style=for-the-badge&logoColor=white" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/MS%20Applied%20Statistics%20%26%20Data%20Science-UT%20Arlington-1C2541?style=for-the-badge&logo=academia&logoColor=white" />
   <img src="https://img.shields.io/badge/Graduate%20Research%20Assistant-Data%20Analytics-3A506B?style=for-the-badge&logo=googlescholar&logoColor=white" />
   <img src="https://img.shields.io/badge/Open%20To-Data%20Analyst%20Roles-5BC0BE?style=for-the-badge&logo=target&logoColor=white" />
