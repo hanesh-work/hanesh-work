@@ -350,4 +350,4 @@ Open To:
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5bc0be,35:3a506b,70:1c2541,100:0b132b&height=130&section=footer" />
-</p>f
+</p>
