@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:1c2541,100:5bc0be&height=240&section=header&text=Hanesh%20Varma%20Sagi&fontSize=46&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1c2541,100:5bc0be&height=120&section=header&text=Hanesh%20Varma%20Sagi&fontSize=36&fontColor=ffffff" />
 </p>
 
 <p align="center">
