@@ -15,7 +15,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20To-Data%20Scientist%20Roles-0B132B?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Open%20To-ML%20Engineer%20Roles-1C2541?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arlington%2C%20Texas-United%20States-3A506B?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dallas%2C%20Texas-United%20States-3A506B?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 <p align="center">
